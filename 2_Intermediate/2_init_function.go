@@ -1,3 +1,10 @@
+/*
+ 2.Init Function :
+ The init() function is a special function in Go that runs automatically during program initialization.
+ You don't call it explicitly.
+*/ 
+
+
 package main
 
 import "fmt"

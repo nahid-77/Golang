@@ -1,3 +1,7 @@
+/* 
+1. Standard or Named Function :
+A named function is a function declared with a name using the func keyword. You can call it whenever you need it.
+*/
 package main
 
 import "fmt"
